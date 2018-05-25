@@ -1,0 +1,8 @@
+site_name: Eat Better Lifestyle
+theme:
+  name: 'material'
+pages:
+  - Home: index.md
+  - About: about.md
+  - Resources: resources.md
+  - Restaurants: restaurants.md
