@@ -1,33 +1,31 @@
-Here’s a starting list of materials to check out. I think you’ll find these resources contain a LOT of compelling evidence in favor of a wfbp diet. Let me know if you have any questions… we love sharing our experiences and helping others out. 
- 
-I would recommend checking out the “Forks over Knives” documentary first. It’s going to be the quickest and a fairly comprehensive overview for you. The books are great but obviously will take longer to read than watching a 1.5 hr movie.
+# Resources
 
-The book that got us started was "Engine 2 Diet". 
+Here are all of the latest tools, and then some, that brought me to where I am 
+today. It may seem like an overwhelming amount of information but I would
+recommend just starting with either "Forks Over Knives" or "What the Health", 
+then going from there.
+
+The book that got me started was "The Engine 2 Diet"
  
 
 ## Documentaries
-
 
 ### [Forks Over Knives][fok-film]
 
 A GREAT overview of wfpb diet. You could definitely start here and get a good 
 foundation of knowledge.
 
-
 ### [What the Health][what-the-health]
 
 Follow up to Cowspiracy and investigates the influence of Meat/Dairy/Big Pharma 
 companies over the health industry.
-
 
 ### [Cowspiracy][cowspiracy]
 
 Talks about the big players in Meat and Dairy and how much control they really 
 have
 
-
 ### [PlantPureNation][plant-pure-nation]
-
 
 
 ### [From The Ground Up][from-the-ground-up]
@@ -81,7 +79,7 @@ cardiovascular disease. He is the father of the author of Engine 2 Diet.
 By _Michael Greger M.D._
 
 * In the middle of reading now. The author is the same doctor behind 
-[NutritionFacts.org][nutritionfacts] and he goes through each disease killing 
+[NutritionFacts.org][nutrition-facts] and he goes through each disease killing 
 Americans and talks about evidence based nutrition for how to minimize your 
 risks.
 
@@ -102,12 +100,37 @@ them or their author
 
 ## Websites
 
-1. <https://www.nutritionfacts.org> - Amazing website with resources on 
-countless topics 
-1. <https://forksoverknives.com>
-    * [Plant-Based Primer: The Beginners Guide to Starting a Plant Based Diet](https://forksoverknives.com/plant-based-primer-beginners-guide-starting-plant-based-diet)
-    * [Why It's So Hard to Give Up Pizza](https://forksoverknives.com/addictive-food-cheese-pizza)
-1. <https://www.engine2diet.com>
+### [Nutrition Facts][nutrition-facts]
+
+Absolutely a must have in your WFPB toolbox. TONS of free videos, articles on
+everything WFPB. Focuses on evidenced-based nutrition.
+
+### [Physician's Committee for Responsible Medicine][pcrm]
+
+PCRM is an organization of top medical practitioners, and this site includes a 
+wealth of information on the prevention and treatment of disease through 
+healthful eating, as well as a vegetarian starter kit.
+
+### [Forks Over Knives][fok]
+
+Forks Over Knives empowers people to live healthier lives by changing the way 
+the world understands nutrition. The Forks Over Knives website features 
+delicious recipes, articles by leading experts, and scores of real-life success 
+stories.
+
+#### Recommended Articles
+
+* [Plant-Based Primer: The Beginners Guide to Starting a Plant Based Diet](https://forksoverknives.com/plant-based-primer-beginners-guide-starting-plant-based-diet)
+* [Why It's So Hard to Give Up Pizza](https://forksoverknives.com/addictive-food-cheese-pizza)
+
+### [Engine 2 Diet][engine2diet]
+
+Rip Esselstyn and his Engine 2 team have been working to change the American 
+diet for good over the past eight years. He transformed a Texas BBQ-loving fire 
+station into a plant-based powerhouse, and now he’s dedicated his life to 
+showing you how to live an easy and satisfying plant-strong life.
+
+### [No Meat Athlete][no-meat-athlete]
 
 
 ## Meal Planners/Food Services
@@ -147,7 +170,7 @@ information like allergies, vitamin supplements, joint health, etc.
 
 
 [engine-2-diet-book]: https://www.amazon.com/Engine-Diet-Firefighters-Save-Your-Life-Cholesterol/dp/0446506680/ref=sr_1_1?ie=UTF8&qid=1527267884&sr=8-1&keywords=engine+2+diet)
-[nutritionfacts]: https://nutritionfacts.org
+[nutrition-facts]: https://nutritionfacts.org
 [china-study]: https://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1941631568/ref=sr_1_1?ie=UTF8&qid=1527268406&sr=8-1&keywords=the+china+study
 [prevent-reverse-heart-disease]: https://www.amazon.com/Prevent-Reverse-Heart-Disease-Nutrition-Based/dp/1583333002/ref=sr_1_2?s=books&ie=UTF8&qid=1527268628&sr=1-2&keywords=prevent+and+reverse+heart+disease+by+caldwell+b.+esselstyn
 [how-not-to-die]: https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115/ref=sr_1_1?s=books&ie=UTF8&qid=1527268715&sr=1-1&keywords=how+not+to+die
@@ -159,3 +182,7 @@ information like allergies, vitamin supplements, joint health, etc.
 [seven-day-rescue-diet]: https://www.amazon.com/Engine-Seven-Day-Rescue-Diet-Plants/dp/1455591173/ref=sr_1_1?s=books&ie=UTF8&qid=1527271897&sr=1-1&keywords=7+day+rescue+diet+engine+2
 [whole]: https://www.amazon.com/Whole-Rethinking-Nutrition-Colin-Campbell/dp/1939529840/ref=sr_1_4?s=books&ie=UTF8&qid=1527272002&sr=1-4&keywords=whole
 [proteinaholic]: https://www.amazon.com/Proteinaholic-Obsession-Meat-Killing-About/dp/0062279319/ref=sr_1_1?s=books&ie=UTF8&qid=1527272145&sr=1-1&keywords=proteinaholic+garth+davis
+[pcrm]: https://www.pcrm.org/
+[fok]: https://forksoverknives.com
+[engine2diet]: https://www.engine2diet.com
+[no-meat-athlete]: https://www.nomeatathlete.com
