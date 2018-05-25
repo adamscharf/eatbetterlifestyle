@@ -27,6 +27,10 @@ have
 
 ### [PlantPureNation][plant-pure-nation]
 
+This documentary follows three people trying to educate the American public 
+about the health benefits of a plant based diet. They attempt to work with the 
+Kentucky Senate, but lobbyists push back once they realize the legislation could 
+be detrimental to the animal agriculture business.
 
 ### [From The Ground Up][from-the-ground-up]
 
