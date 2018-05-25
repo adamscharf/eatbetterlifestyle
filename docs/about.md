@@ -1,4 +1,4 @@
-# About us
+# About Us
  
 In April 2016, we realized that we both needed to do something about our 
 climbing weight. We knew we had to change our eating habits to become healthier 
