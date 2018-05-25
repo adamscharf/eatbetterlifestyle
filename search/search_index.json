@@ -2,23 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Welcome to EatBetterLifestyle!\n\n\n\"We all have different disease risks due to our different genes. But while we \nwill never know every risk to which we are predisposed, we do know how to \ncontrol those risks. Regardless of our genes, we can all optimize our chances \nof expressing the right genes by providing our bodies with the best possible \nenvironment\u2014that is, the best possible nutrition.\"  \n\n\n- The China Study, T. Colin Campbell",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/#welcome-to-eatbetterlifestyle",
+            "text": "\"We all have different disease risks due to our different genes. But while we \nwill never know every risk to which we are predisposed, we do know how to \ncontrol those risks. Regardless of our genes, we can all optimize our chances \nof expressing the right genes by providing our bodies with the best possible \nenvironment\u2014that is, the best possible nutrition.\"    - The China Study, T. Colin Campbell",
+            "title": "Welcome to EatBetterLifestyle!"
         },
         {
             "location": "/about/",
@@ -27,28 +17,78 @@
         },
         {
             "location": "/resources/",
-            "text": "Here\u2019s a starting list of materials to check out. I think you\u2019ll find these resources contain a LOT of compelling evidence in favor of a wfbp diet. Let me know if you have any questions\u2026 we love sharing our experiences and helping others out. \n\n\nI would recommend checking out the \u201cForks over Knives\u201d documentary first. It\u2019s going to be the quickest and a fairly comprehensive overview for you. The books are great but obviously will take longer to read than watching a 1.5 hr movie.\n\n\nThe book that got us started was \"Engine 2 Diet\". \n\n\nRecipes:\n\n\nI think all of the attached recipes are for 2 servings, but Adam and I usually make 4 servings to have leftovers available. I would recommend doubling the recipes so you aren't cooking constantly. Everything heats up pretty well. The best oil-free hummus we've found is the one from the \"Artichoke Hummus Wrap\" but we just make the hummus from it. There are a couple delicious dessert recipes (Chocolate Chip Cookies and Peach Cobbler), burger recipes (Sneaky Chickpea and Mediterranean Bean - we skipped the olives), AMAZING tacos (you can use black beans instead of adzuki beans since they are difficult to find), pasta, pizza, cold, hot. Seriously though, if you have any questions or need any grocery shopping tips, just let me know!\n\n\nDocumentaries\n\n\n\n\nForks Over Knives \u2013 A GREAT overview of wfpb diet. You could definitely start here and get a good foundation of knowledge.\n\n\nWhat the Health \u2013 Follow up to Cowspiracy and investigates the influence of Meat/Dairy/Big Pharma companies over the health industry.\n\n\nCowspiracy \u2013 Talks about the big players in Meat and Dairy and how much control they really have\n\n\n\n\nBooks:\n1. Engine 2 Diet \u2013 This is where I started. Helped show me a wfpb diet can be viable solution for athletic men. Author is a world-renowned athlete.\n2. The China Study \u2013 Has a ton of proven data about the merits of a wfpb diet. It goes disease by disease and talks about how a wfpb diet can prevent, stop, and even reverse each one.\n3. Prevent and Reverse Heart Disease \u2013 The author of this book is a world-renowned cardiologist and has clinical data showing the effectiveness of switching to wfpb for people with very progressed cardiovascular disease. He is the father of the author of Engine 2 Diet.\n4. How Not to Die \u2014 In the middle of reading now. The author is the same doctor behind http://nutritionfacts.org and he goes through each disease killing Americans and talks about evidence based nutrition for how to minimize your risks.\n\n\nThe rest of these I have yet to read but have heard good things about either them or their author\n\n\n\n\n7 Day Rescue Diet \u2014 By the same author as Engine 2 Diet and is his latest book\n\n\nWhole \u2013 By the same author of The China Study. Currently reading.\n\n\nProteinaholic \n\n\nThe Pleasure Trap \n\n\nThe Cheese Trap \n\n\nPower Foods for the Brain\n\n\nEating on the Wild Side \n\n\n\n\nWebsites\n\n\n\n\nhttps://forksoverknives.com\n\n\nhttps://forksoverknives.com/plant-based-primer-beginners-guide-starting-plant-based-diet\n\n\nhttps://forksoverknives.com/addictive-food-cheese-pizza\n\n\n\n\n\n\nwww.nutritionfacts.org - Amazing website with resources on countless topics\n\n\nwww.engine2diet.com \n\n\n\n\nMeal Planners/Food Services\n1. https://forksmealplanner.com \u2014 This is the one my wife and I use\n2. https://mealplanner.engine2.com \u2014 Haven't tried this but it's by the same person as the author of Engine2 book\n3. https://www.purplecarrot.com/ \u2014 Vegan meal ingredient delivery service like Blue Apron or Plated. It's not technically WFPB but the recipes can be easily altered by just skipping the oils\n4. https://www.hungryroot.com/\n\n\nPodcasts\n\n\n\n\nPlant Yourself Podcast \u2013 This podcast covers a wide range of topics and is not always related to food, but they approach things from a plant-based perspective and talk a lot about self-improvement and bettering yourself and the environment, which I appreciate.\n\n\nThought for Food \u2013 I\u2019ve only recently started listening to this podcast but you should definitely listen to the \u201cTransitioning to a Plant-Based Lifestyle\u201d episode from 1/28/16. They come from an athlete perspective too and help break the stereotypes.\n\n\nNutrition Facts with Dr. Greger \u2013 Short episodes focused on one health topic. Especially helpful for targeted information like allergies, vitamin supplements, joint health, etc.\n\n\n\n\nOne of my favorite quotes so far is from the China study about optimizing our chances:\n\n\n\"We all have different disease risks due to our different genes. But while we will never know every risk to which we are predisposed, we do know how to control those risks. Regardless of our genes, we can all optimize our chances of expressing the right genes by providing our bodies with the best possible environment\u2014that is, the best possible nutrition.\"",
+            "text": "Here\u2019s a starting list of materials to check out. I think you\u2019ll find these resources contain a LOT of compelling evidence in favor of a wfbp diet. Let me know if you have any questions\u2026 we love sharing our experiences and helping others out. \n\n\nI would recommend checking out the \u201cForks over Knives\u201d documentary first. It\u2019s going to be the quickest and a fairly comprehensive overview for you. The books are great but obviously will take longer to read than watching a 1.5 hr movie.\n\n\nThe book that got us started was \"Engine 2 Diet\". \n\n\nDocumentaries\n\n\n\n\nForks Over Knives \u2013 A GREAT overview of wfpb diet. You could definitely start \nhere and get a good foundation of knowledge.\n\n\nWhat the Health \u2013 Follow up to Cowspiracy and investigates the influence of \nMeat/Dairy/Big Pharma companies over the health industry.\n\n\nCowspiracy \u2013 Talks about the big players in Meat and Dairy and how much \ncontrol they really have\n\n\n\n\nBooks\n\n\nEngine 2 Diet\n, \nRip Esselstyn\n\n\nThis is where I started. Helped show me a wfpb diet can be viable solution for \nathletic men. Author is a world-renowned athlete.\n\n\nThe China Study\n, \nT. Colin Campbell & Thomas M. Campbell II\n\n\nHas a ton of proven data about the merits of a wfpb diet. It goes disease by \ndisease and talks about how a wfpb diet can prevent, stop, and even reverse each\none.\n\n\nPrevent and Reverse Heart Disease\n, \nCaldwell B. Esselstyn Jr.\n\n\nThe author of this book is a world-renowned cardiologist and has clinical data \nshowing the effectiveness of switching to wfpb for people with very progressed \ncardiovascular disease. He is the father of the author of Engine 2 Diet.\n\n\nHow Not to Die\n, \nMichael Greger M.D.\n\n\nIn the middle of reading now. The author is the same doctor behind \n\nNutritionFacts.org\n and he goes through each disease killing \nAmericans and talks about evidence based nutrition for how to minimize your \nrisks.\n\n\nOthers\n\n\nThe rest of these I have yet to read but have heard good things about either \nthem or their author\n\n\n\n\n7 Day Rescue Diet \u2014 By the same author as Engine 2 Diet and is his latest book\n\n\nWhole \u2013 By the same author of The China Study. Currently reading.\n\n\nProteinaholic \n\n\nThe Pleasure Trap \n\n\nThe Cheese Trap \n\n\nPower Foods for the Brain\n\n\nEating on the Wild Side \n\n\n\n\nWebsites\n\n\n\n\nhttps://www.nutritionfacts.org\n - Amazing website with resources on \ncountless topics \n\n\nhttps://forksoverknives.com\n\n\nPlant-Based Primer: The Beginners Guide to Starting a Plant Based Diet\n\n\nWhy It's So Hard to Give Up Pizza\n\n\n\n\n\n\nhttps://www.engine2diet.com\n\n\n\n\nMeal Planners/Food Services\n\n\n\n\nhttps://forksmealplanner.com\n \u2014 This is the one my wife and I use\n\n\nhttps://mealplanner.engine2.com\n \u2014 Haven't tried this but it's by the same \nperson as the author of Engine2 book\n\n\nhttps://www.purplecarrot.com\n \u2014 Vegan meal ingredient delivery service like Blue Apron or Plated. It's not technically WFPB but the recipes can be easily altered by just skipping the oils\n\n\nhttps://www.hungryroot.com\n\n\n\n\nRecipes\n\n\nComing soon...\n\n\nPodcasts\n\n\nPlant Yourself Podcast\n\n\nThis podcast covers a wide range of topics and is not always related to food, \nbut they approach things from a plant-based perspective and talk a lot about \nself-improvement and bettering yourself and the environment, which I appreciate.\n\n\nThought for Food\n\n\nI\u2019ve only recently started listening to this podcast but you should definitely \nlisten to the \u201cTransitioning to a Plant-Based Lifestyle\u201d episode from 1/28/16. \nThey come from an athlete perspective too and help break the stereotypes.\n\n\nNutrition Facts with Dr. Greger\n\n\nShort episodes focused on one health topic. Especially helpful for targeted \ninformation like allergies, vitamin supplements, joint health, etc.",
             "title": "Resources"
         },
         {
-            "location": "/resources/#recipes",
-            "text": "I think all of the attached recipes are for 2 servings, but Adam and I usually make 4 servings to have leftovers available. I would recommend doubling the recipes so you aren't cooking constantly. Everything heats up pretty well. The best oil-free hummus we've found is the one from the \"Artichoke Hummus Wrap\" but we just make the hummus from it. There are a couple delicious dessert recipes (Chocolate Chip Cookies and Peach Cobbler), burger recipes (Sneaky Chickpea and Mediterranean Bean - we skipped the olives), AMAZING tacos (you can use black beans instead of adzuki beans since they are difficult to find), pasta, pizza, cold, hot. Seriously though, if you have any questions or need any grocery shopping tips, just let me know!",
-            "title": "Recipes:"
-        },
-        {
             "location": "/resources/#documentaries",
-            "text": "Forks Over Knives \u2013 A GREAT overview of wfpb diet. You could definitely start here and get a good foundation of knowledge.  What the Health \u2013 Follow up to Cowspiracy and investigates the influence of Meat/Dairy/Big Pharma companies over the health industry.  Cowspiracy \u2013 Talks about the big players in Meat and Dairy and how much control they really have   Books:\n1. Engine 2 Diet \u2013 This is where I started. Helped show me a wfpb diet can be viable solution for athletic men. Author is a world-renowned athlete.\n2. The China Study \u2013 Has a ton of proven data about the merits of a wfpb diet. It goes disease by disease and talks about how a wfpb diet can prevent, stop, and even reverse each one.\n3. Prevent and Reverse Heart Disease \u2013 The author of this book is a world-renowned cardiologist and has clinical data showing the effectiveness of switching to wfpb for people with very progressed cardiovascular disease. He is the father of the author of Engine 2 Diet.\n4. How Not to Die \u2014 In the middle of reading now. The author is the same doctor behind http://nutritionfacts.org and he goes through each disease killing Americans and talks about evidence based nutrition for how to minimize your risks.  The rest of these I have yet to read but have heard good things about either them or their author   7 Day Rescue Diet \u2014 By the same author as Engine 2 Diet and is his latest book  Whole \u2013 By the same author of The China Study. Currently reading.  Proteinaholic   The Pleasure Trap   The Cheese Trap   Power Foods for the Brain  Eating on the Wild Side",
+            "text": "Forks Over Knives \u2013 A GREAT overview of wfpb diet. You could definitely start \nhere and get a good foundation of knowledge.  What the Health \u2013 Follow up to Cowspiracy and investigates the influence of \nMeat/Dairy/Big Pharma companies over the health industry.  Cowspiracy \u2013 Talks about the big players in Meat and Dairy and how much \ncontrol they really have",
             "title": "Documentaries"
         },
         {
+            "location": "/resources/#books",
+            "text": "",
+            "title": "Books"
+        },
+        {
+            "location": "/resources/#engine-2-diet-rip-esselstyn",
+            "text": "This is where I started. Helped show me a wfpb diet can be viable solution for \nathletic men. Author is a world-renowned athlete.",
+            "title": "Engine 2 Diet, Rip Esselstyn"
+        },
+        {
+            "location": "/resources/#the-china-study-t-colin-campbell-thomas-m-campbell-ii",
+            "text": "Has a ton of proven data about the merits of a wfpb diet. It goes disease by \ndisease and talks about how a wfpb diet can prevent, stop, and even reverse each\none.",
+            "title": "The China Study, T. Colin Campbell &amp; Thomas M. Campbell II"
+        },
+        {
+            "location": "/resources/#prevent-and-reverse-heart-disease-caldwell-b-esselstyn-jr",
+            "text": "The author of this book is a world-renowned cardiologist and has clinical data \nshowing the effectiveness of switching to wfpb for people with very progressed \ncardiovascular disease. He is the father of the author of Engine 2 Diet.",
+            "title": "Prevent and Reverse Heart Disease, Caldwell B. Esselstyn Jr."
+        },
+        {
+            "location": "/resources/#how-not-to-die-michael-greger-md",
+            "text": "In the middle of reading now. The author is the same doctor behind  NutritionFacts.org  and he goes through each disease killing \nAmericans and talks about evidence based nutrition for how to minimize your \nrisks.",
+            "title": "How Not to Die, Michael Greger M.D."
+        },
+        {
+            "location": "/resources/#others",
+            "text": "The rest of these I have yet to read but have heard good things about either \nthem or their author   7 Day Rescue Diet \u2014 By the same author as Engine 2 Diet and is his latest book  Whole \u2013 By the same author of The China Study. Currently reading.  Proteinaholic   The Pleasure Trap   The Cheese Trap   Power Foods for the Brain  Eating on the Wild Side",
+            "title": "Others"
+        },
+        {
             "location": "/resources/#websites",
-            "text": "https://forksoverknives.com  https://forksoverknives.com/plant-based-primer-beginners-guide-starting-plant-based-diet  https://forksoverknives.com/addictive-food-cheese-pizza    www.nutritionfacts.org - Amazing website with resources on countless topics  www.engine2diet.com    Meal Planners/Food Services\n1. https://forksmealplanner.com \u2014 This is the one my wife and I use\n2. https://mealplanner.engine2.com \u2014 Haven't tried this but it's by the same person as the author of Engine2 book\n3. https://www.purplecarrot.com/ \u2014 Vegan meal ingredient delivery service like Blue Apron or Plated. It's not technically WFPB but the recipes can be easily altered by just skipping the oils\n4. https://www.hungryroot.com/",
+            "text": "https://www.nutritionfacts.org  - Amazing website with resources on \ncountless topics   https://forksoverknives.com  Plant-Based Primer: The Beginners Guide to Starting a Plant Based Diet  Why It's So Hard to Give Up Pizza    https://www.engine2diet.com",
             "title": "Websites"
         },
         {
+            "location": "/resources/#meal-plannersfood-services",
+            "text": "https://forksmealplanner.com  \u2014 This is the one my wife and I use  https://mealplanner.engine2.com  \u2014 Haven't tried this but it's by the same \nperson as the author of Engine2 book  https://www.purplecarrot.com  \u2014 Vegan meal ingredient delivery service like Blue Apron or Plated. It's not technically WFPB but the recipes can be easily altered by just skipping the oils  https://www.hungryroot.com",
+            "title": "Meal Planners/Food Services"
+        },
+        {
+            "location": "/resources/#recipes",
+            "text": "Coming soon...",
+            "title": "Recipes"
+        },
+        {
             "location": "/resources/#podcasts",
-            "text": "Plant Yourself Podcast \u2013 This podcast covers a wide range of topics and is not always related to food, but they approach things from a plant-based perspective and talk a lot about self-improvement and bettering yourself and the environment, which I appreciate.  Thought for Food \u2013 I\u2019ve only recently started listening to this podcast but you should definitely listen to the \u201cTransitioning to a Plant-Based Lifestyle\u201d episode from 1/28/16. They come from an athlete perspective too and help break the stereotypes.  Nutrition Facts with Dr. Greger \u2013 Short episodes focused on one health topic. Especially helpful for targeted information like allergies, vitamin supplements, joint health, etc.   One of my favorite quotes so far is from the China study about optimizing our chances:  \"We all have different disease risks due to our different genes. But while we will never know every risk to which we are predisposed, we do know how to control those risks. Regardless of our genes, we can all optimize our chances of expressing the right genes by providing our bodies with the best possible environment\u2014that is, the best possible nutrition.\"",
+            "text": "",
             "title": "Podcasts"
+        },
+        {
+            "location": "/resources/#plant-yourself-podcast",
+            "text": "This podcast covers a wide range of topics and is not always related to food, \nbut they approach things from a plant-based perspective and talk a lot about \nself-improvement and bettering yourself and the environment, which I appreciate.",
+            "title": "Plant Yourself Podcast"
+        },
+        {
+            "location": "/resources/#thought-for-food",
+            "text": "I\u2019ve only recently started listening to this podcast but you should definitely \nlisten to the \u201cTransitioning to a Plant-Based Lifestyle\u201d episode from 1/28/16. \nThey come from an athlete perspective too and help break the stereotypes.",
+            "title": "Thought for Food"
+        },
+        {
+            "location": "/resources/#nutrition-facts-with-dr-greger",
+            "text": "Short episodes focused on one health topic. Especially helpful for targeted \ninformation like allergies, vitamin supplements, joint health, etc.",
+            "title": "Nutrition Facts with Dr. Greger"
         },
         {
             "location": "/restaurants/",
