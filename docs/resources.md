@@ -4,39 +4,83 @@ I would recommend checking out the “Forks over Knives” documentary first. It
 
 The book that got us started was "Engine 2 Diet". 
  
+
 ## Documentaries
 
-1. Forks Over Knives – A GREAT overview of wfpb diet. You could definitely start 
-here and get a good foundation of knowledge.
-2. What the Health – Follow up to Cowspiracy and investigates the influence of 
-Meat/Dairy/Big Pharma companies over the health industry.
-3. Cowspiracy – Talks about the big players in Meat and Dairy and how much 
-control they really have
- 
+
+### [Forks Over Knives][fok-film]
+
+A GREAT overview of wfpb diet. You could definitely start here and get a good 
+foundation of knowledge.
+
+
+### [What the Health][what-the-health]
+
+Follow up to Cowspiracy and investigates the influence of Meat/Dairy/Big Pharma 
+companies over the health industry.
+
+
+### [Cowspiracy][cowspiracy]
+
+Talks about the big players in Meat and Dairy and how much control they really 
+have
+
+
+### [PlantPureNation][plant-pure-nation]
+
+
+
+### [From The Ground Up][from-the-ground-up]
+
+Follows the story of a former college football player, Santino Panico, as he
+attempts to rediscover his fitness as a vegan by running in his first marathon.
+He meets with vegetarian and vegan elite competitors to better understand the 
+link between food and sports.
+
+
+### Others
+
+* Food Choices 
+* Fat, Sick, and Nearly Dead
+* Food Inc.
+* Vegucated
+* Food Matters
+
+
 ## Books
 
-### [Engine 2 Diet][engine-2-diet-book], _Rip Esselstyn_
 
-This is where I started. Helped show me a wfpb diet can be viable solution for 
+### [Engine 2 Diet][engine-2-diet-book]
+
+By _Rip Esselstyn_
+
+* This is where I started. Helped show me a wfpb diet can be viable solution for 
 athletic men. Author is a world-renowned athlete.
 
-### [The China Study][china-study], _T. Colin Campbell & Thomas M. Campbell II_
 
-Has a ton of proven data about the merits of a wfpb diet. It goes disease by 
+### [The China Study][china-study]
+
+By _T. Colin Campbell & Thomas M. Campbell II_
+
+* Has a ton of proven data about the merits of a wfpb diet. It goes disease by 
 disease and talks about how a wfpb diet can prevent, stop, and even reverse each
 one.
 
 
-### [Prevent and Reverse Heart Disease][prevent-reverse-heart-disease], _Caldwell B. Esselstyn Jr._
+### [Prevent and Reverse Heart Disease][prevent-reverse-heart-disease]
 
-The author of this book is a world-renowned cardiologist and has clinical data 
+By _Caldwell B. Esselstyn Jr._
+
+* The author of this book is a world-renowned cardiologist and has clinical data 
 showing the effectiveness of switching to wfpb for people with very progressed 
 cardiovascular disease. He is the father of the author of Engine 2 Diet.
 
 
-### [How Not to Die][how-not-to-die], _Michael Greger M.D._
+### [How Not to Die][how-not-to-die]
 
-In the middle of reading now. The author is the same doctor behind 
+By _Michael Greger M.D._
+
+* In the middle of reading now. The author is the same doctor behind 
 [NutritionFacts.org][nutritionfacts] and he goes through each disease killing 
 Americans and talks about evidence based nutrition for how to minimize your 
 risks.
@@ -47,9 +91,9 @@ risks.
 The rest of these I have yet to read but have heard good things about either 
 them or their author
  
-* 7 Day Rescue Diet — By the same author as Engine 2 Diet and is his latest book
-* Whole – By the same author of The China Study. Currently reading.
-* Proteinaholic 
+* [Seven Day Rescue Diet][seven-day-rescue-diet], _Rip Esselstyn_ - Rip's latest book
+* [Whole][whole], _T. Colin Campbell, Howard Jacobson_ - Latest book by T. Colin Campbell
+* [Proteinaholic][proteinaholic], _Garth Davis M.D., Howard Jacobson_
 * The Pleasure Trap 
 * The Cheese Trap 
 * Power Foods for the Brain
@@ -107,3 +151,11 @@ information like allergies, vitamin supplements, joint health, etc.
 [china-study]: https://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1941631568/ref=sr_1_1?ie=UTF8&qid=1527268406&sr=8-1&keywords=the+china+study
 [prevent-reverse-heart-disease]: https://www.amazon.com/Prevent-Reverse-Heart-Disease-Nutrition-Based/dp/1583333002/ref=sr_1_2?s=books&ie=UTF8&qid=1527268628&sr=1-2&keywords=prevent+and+reverse+heart+disease+by+caldwell+b.+esselstyn
 [how-not-to-die]: https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115/ref=sr_1_1?s=books&ie=UTF8&qid=1527268715&sr=1-1&keywords=how+not+to+die
+[fok-film]: https://www.forksoverknives.com/the-film/#gs.qH1zSg0
+[what-the-health]: https://www.netflix.com/title/80174177
+[from-the-ground-up]: https://www.fromthegroundupfilm.com/
+[cowspiracy]: https://www.netflix.com/title/80033772
+[plant-pure-nation]: https://www.plantpurenation.com/pages/watch-the-film
+[seven-day-rescue-diet]: https://www.amazon.com/Engine-Seven-Day-Rescue-Diet-Plants/dp/1455591173/ref=sr_1_1?s=books&ie=UTF8&qid=1527271897&sr=1-1&keywords=7+day+rescue+diet+engine+2
+[whole]: https://www.amazon.com/Whole-Rethinking-Nutrition-Colin-Campbell/dp/1939529840/ref=sr_1_4?s=books&ie=UTF8&qid=1527272002&sr=1-4&keywords=whole
+[proteinaholic]: https://www.amazon.com/Proteinaholic-Obsession-Meat-Killing-About/dp/0062279319/ref=sr_1_1?s=books&ie=UTF8&qid=1527272145&sr=1-1&keywords=proteinaholic+garth+davis
