@@ -37,3 +37,11 @@ extra:
 google_analytics:
 - 'UA-119884334-1'
 - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
