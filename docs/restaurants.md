@@ -1,3 +1,5 @@
+# Restaurants
+
 _Top recommendations in **bold**_
 
 ## Richmond, VA
