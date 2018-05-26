@@ -1,5 +1,7 @@
 # About Us
- 
+
+![Adam and Dawn][adam-dawn]
+
 In April 2016, we realized that we both needed to do something about our 
 climbing weight. We knew we had to change our eating habits to become healthier 
 people. It began when we made the decision to visit a registered dietician. 
@@ -25,3 +27,5 @@ Over time, we both continued learning and expanding our knowledge about WFPB and
 the science behind why the nutrition works. We’ve never stopped trying new 
 recipes! While it hasn’t always been easy, it’s what got us here and we wouldn’t 
 trade our newfound health for anything.
+
+[adam-dawn]: img/before-after.jpg
