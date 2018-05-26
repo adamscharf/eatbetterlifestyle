@@ -1,6 +1,15 @@
+# Project information
 site_name: Eat Better Lifestyle
+site_author: 'Adam Scharf'
+site_url: 'https://eatbetterlifestyle.com'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 Adam Scharf'
+
+# Configuration
 theme:
   name: 'material'
+  language: 'en'
   palette:
     primary: 'green'
     accent: 'blue'
@@ -13,3 +22,18 @@ pages:
   - About: about.md
   - Resources: resources.md
   - Restaurants: restaurants.md
+
+# Customization
+extra:
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/eatbetterlifestyle'
+    - type: 'facebook'
+      link: 'https://facebook.com/eatbetterlifestyle'
+    - type: 'instagram'
+      link: 'https://instagram.com/eatbetterlifestyle'
+
+# Google Analytics
+google_analytics:
+- 'UA-119884334-1'
+- 'auto'
