@@ -1,6 +1,13 @@
 site_name: Eat Better Lifestyle
 theme:
   name: 'material'
+  palette:
+    primary: 'green'
+    accent: 'blue'
+  logo:
+    icon: 'spa'
+  favicon: 'img/favicon.jpg'
+
 pages:
   - Home: index.md
   - About: about.md
