@@ -20,6 +20,7 @@ theme:
 pages:
   - Home: index.md
   - About: about.md
+  - Recipes: recipes.md
   - Resources: resources.md
   - Restaurants: restaurants.md
 

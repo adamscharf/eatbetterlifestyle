@@ -146,11 +146,6 @@ person as the author of Engine2 book
 4. <https://www.hungryroot.com>
 
 
-## Recipes
-
-Coming soon...
-
-
 ## Podcasts
 
 
