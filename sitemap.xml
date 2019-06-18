@@ -1,44 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
      <loc>https://eatbetterlifestyle.com/</loc>
-     <lastmod>2018-08-21</lastmod>
+     <lastmod>2019-06-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>https://eatbetterlifestyle.com/about/</loc>
-     <lastmod>2018-08-21</lastmod>
+     <lastmod>2019-06-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>https://eatbetterlifestyle.com/recipes/</loc>
-     <lastmod>2018-08-21</lastmod>
+     <lastmod>2019-06-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>https://eatbetterlifestyle.com/resources/</loc>
-     <lastmod>2018-08-21</lastmod>
+     <lastmod>2019-06-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>https://eatbetterlifestyle.com/restaurants/</loc>
-     <lastmod>2018-08-21</lastmod>
+     <lastmod>2019-06-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
 </urlset>
