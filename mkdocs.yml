@@ -16,6 +16,11 @@ theme:
   logo:
     icon: 'spa'
   favicon: 'img/favicon.jpg'
+  feature:
+    tabs: false
+
+extra_css: [extra.css]
+
 
 pages:
   - Home: index.md
