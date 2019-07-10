@@ -39,6 +39,10 @@ attempts to rediscover his fitness as a vegan by running in his first marathon.
 He meets with vegetarian and vegan elite competitors to better understand the 
 link between food and sports.
 
+### [Game Changers][game-changers]
+
+_Global Premiere: September 16, 2019_
+
 
 ### Others
 
@@ -106,18 +110,18 @@ them or their author
 
 ### [Nutrition Facts][nutrition-facts]
 
-Absolutely a must have in your WFPB toolbox. TONS of free videos, articles on
+- Absolutely a must have in your WFPB toolbox. TONS of free videos, articles on
 everything WFPB. Focuses on evidenced-based nutrition.
 
 ### [Physician's Committee for Responsible Medicine][pcrm]
 
-PCRM is an organization of top medical practitioners, and this site includes a 
+- PCRM is an organization of top medical practitioners, and this site includes a 
 wealth of information on the prevention and treatment of disease through 
 healthful eating, as well as a vegetarian starter kit.
 
 ### [Forks Over Knives][fok]
 
-Forks Over Knives empowers people to live healthier lives by changing the way 
+- Forks Over Knives empowers people to live healthier lives by changing the way 
 the world understands nutrition. The Forks Over Knives website features 
 delicious recipes, articles by leading experts, and scores of real-life success 
 stories.
@@ -129,7 +133,7 @@ stories.
 
 ### [Engine 2 Diet][engine2diet]
 
-Rip Esselstyn and his Engine 2 team have been working to change the American 
+- Rip Esselstyn and his Engine 2 team have been working to change the American 
 diet for good over the past eight years. He transformed a Texas BBQ-loving fire 
 station into a plant-based powerhouse, and now he’s dedicated his life to 
 showing you how to live an easy and satisfying plant-strong life.
@@ -144,28 +148,35 @@ showing you how to live an easy and satisfying plant-strong life.
 person as the author of Engine2 book
 3. <https://www.purplecarrot.com> — Vegan meal ingredient delivery service like Blue Apron or Plated. It's not technically WFPB but the recipes can be easily altered by just skipping the oils
 4. <https://www.hungryroot.com>
+5. <https://www.happycow.net> - Like Yelp but specifically for finding vegan/vegetarian resataurants nearby
 
 
 ## Podcasts
 
-
 ### Plant Yourself Podcast
-This podcast covers a wide range of topics and is not always related to food, 
+
+- This podcast covers a wide range of topics and is not always related to food, 
 but they approach things from a plant-based perspective and talk a lot about 
 self-improvement and bettering yourself and the environment, which I appreciate.
 
-
 ### Thought for Food
 
-I’ve only recently started listening to this podcast but you should definitely 
+_No longer creating new episodes_
+
+- I’ve only recently started listening to this podcast but you should definitely 
 listen to the “Transitioning to a Plant-Based Lifestyle” episode from 1/28/16. 
 They come from an athlete perspective too and help break the stereotypes.
 
-
 ### Nutrition Facts with Dr. Greger
 
-Short episodes focused on one health topic. Especially helpful for targeted 
+- Short episodes focused on one health topic. Especially helpful for targeted 
 information like allergies, vitamin supplements, joint health, etc.
+
+### Others
+
+- No Meat Athlete
+- Plant-Strong
+- The Rich Roll Podcast
 
 
 [engine-2-diet-book]: https://www.amazon.com/Engine-Diet-Firefighters-Save-Your-Life-Cholesterol/dp/0446506680/ref=sr_1_1?ie=UTF8&qid=1527267884&sr=8-1&keywords=engine+2+diet)
@@ -185,3 +196,4 @@ information like allergies, vitamin supplements, joint health, etc.
 [fok]: https://forksoverknives.com
 [engine2diet]: https://www.engine2diet.com
 [no-meat-athlete]: https://www.nomeatathlete.com
+[game-changers]: https://gamechangersmovie.com/
