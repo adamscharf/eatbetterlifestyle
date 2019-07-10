@@ -13,8 +13,8 @@
 - 1 15 oz. can low sodium vegetable broth  
 - 1 10 oz. bottle mild green taco sauce. (or 1 7 oz. can mild green salsa.)  
 - 1 cup water  
-- 2 Tablespoons (or 1/2 package) taco seasoning mix  
-- 3/4 teaspoon ground cumin  
+- 2 Tablespoons (or ½ package) taco seasoning mix  
+- ¾ teaspoon ground cumin  
 - 1 recipe [Crispy Baked Tortilla Strips](#crispy-baked-tortilla-strips-oil-free)  
 - 4 cups cooked white or brown rice (optional)  
 
@@ -35,6 +35,7 @@
 
 Adapted from _<http://littleblueplates.com>_
 
+
 ## Baked Breaded Eggplant
 
 ### Ingredients
@@ -46,10 +47,10 @@ Adapted from _<http://littleblueplates.com>_
 - salt and fresh ground pepper
 - olive oil spray, optional
 
-### Directories
+### Directions
 
 1. Preheat oven to 375 degrees.
-1. On your cutting board, cut off both ends of your eggplant. Using a sharp knife carefully slice your eggplant lengthways into 1/2" slices. (Here' a great post for a visual how-to cut an eggplant into slices)
+1. On your cutting board, cut off both ends of your eggplant. Using a sharp knife carefully slice your eggplant lengthways into ½" slices. (Here' a great post for a visual how-to cut an eggplant into slices)
 1. Once my eggplant is sliced up I lay the slices out onto baking racks or pans and sprinkle the slices with kosher or coarse salt. This will pull out the moisture and any bitterness from the eggplant. I let it sit in the salt for about 15-30 minutes.
 1. While your eggplant is sitting, season your breadcrumbs with salt, pepper, parmesan and Italian seasoning (you can always use store bought Italian seasoned breadcrumbs if you like). Set up an assembly line: sliced eggplant, whisked eggs, shallow dish of seasoned breadcrumbs and lightly greased baking sheets (I spray mine with cooking spray).
 1. Rinse salt off eggplant and pat dry well with dish towels or paper towels. I like to press down as I'm drying to really pull out all the water. Once eggplant is pressed dry, you are ready to bread.
@@ -63,6 +64,8 @@ Adapted from _<http://aggieskitchen.com>_
 
 
 ## Bean & Cheese Quesadillas
+
+!!!important "Favorite"
 
 **Prep Time:** 15 min, **Cook Time:** 10 min, **Total Time:** 25 min, **Servings:** 8 Quesadillas
 
@@ -126,8 +129,8 @@ Adapted from _<https://forksoverknives.com>_
 - 1 medium sized onion, chopped  
 - 2 cloves of garlic, minced  
 - 1 bell pepper, chopped  
-- 1 1/2 cups cooked chickpeas (or one 15 oz can, drained and rinsed)  
-- 1/2 cup tomato sauce (passata)  
+- 1 ½ cups cooked chickpeas (or one 15 oz can, drained and rinsed)  
+- ½ cup tomato sauce (passata)  
 - 3 tbsp hot sauce (or more to taste)  
 - 2 tbsp plant-based milk  
 - 1 tbsp balsamic vinegar  
@@ -135,9 +138,9 @@ Adapted from _<https://forksoverknives.com>_
 #### Spice Mix
 
 - 1 tsp onion powder  
-- 3/4 tsp coconut sugar (or brown sugar) 1/2 tsp garlic powder  
-- 1/2 tsp smoked paprika  
-- 1/2 tsp ground cumin  
+- ¾ tsp coconut sugar (or brown sugar) ½ tsp garlic powder  
+- ½ tsp smoked paprika  
+- ½ tsp ground cumin  
 - sea salt  
 - Ground pepper  
 - Chili powder to taste  
@@ -171,7 +174,7 @@ Adapted from _<http://elavegan.com>_
 #### Produce
 
 - 2 yellow onions diced (≈4 cups)
-- 5 stalks celery diced (≈1/2 cups)
+- 5 stalks celery diced (≈½ cups)
 - 2 red bell peppers diced (≈2 cups)
 - 4 cloves garlic minced (≈2 teaspoons)
 
@@ -187,9 +190,9 @@ Adapted from _<http://elavegan.com>_
 
 #### Packaged
 
-- 1 (28-oz) can low-sodium fire-roasted tomatoes with juices 1 (15-oz) can black beans drained & rinsed (≈1/2 cups)
-- 1 (15-oz) can kidney beans drained & rinsed (≈1/2 cups)
-- 1 (15-oz) can pinto beans drained & rinsed (≈1/2 cups)
+- 1 (28-oz) can low-sodium fire-roasted tomatoes with juices 1 (15-oz) can black beans drained & rinsed (≈½ cups)
+- 1 (15-oz) can kidney beans drained & rinsed (≈½ cups)
+- 1 (15-oz) can pinto beans drained & rinsed (≈½ cups)
 - 1 (14-oz) can light coconut milk
 - 2 tablespoons unsweetened coconut flakes
 - 5 ounces frozen corn (≈1 cups)
@@ -309,15 +312,22 @@ Adapted from _Fat Man’s Essential 40_
 ## Fat Man’s Chicken Wing Hummus Dip
 
 **Servings:** 8
+
+### Ingredients
+
 - 2 cans (15.5oz.) of garbanzo beans
-- 1⁄4 cup nutritional yeast
--  cup favorite hot sauce (I like Frank’s Redhot) 1⁄8 of a medium red onion
-1 stick of celery
-DIRECTIONS
-Place 1⁄2 of the celery stick (the leafy half), onion, and hot sauce in a blender.
-Add 1 can of undrained chickpeas and continue blending.
-Drain 2nd can of beans (save liquid) and add it along with the nutritional yeast to the blender. Add in the reserved liquid as needed to desired texture.
-Top with diced celery and some extra hot sauce.
+- ¼ cup nutritional yeast
+- ½ cup favorite hot sauce (I like Frank’s Redhot)
+- 1⁄8 of a medium red onion
+- 1 stick of celery
+
+### Directions
+
+1. Place ½ of the celery stick (the leafy half), onion, and hot sauce in a blender.
+2. Add 1 can of undrained chickpeas and continue blending.
+3. Drain 2nd can of beans (save liquid) and add it along with the nutritional yeast to the blender.
+4. Add in the reserved liquid as needed to desired texture.
+5. Top with diced celery and some extra hot sauce.
 
 Adapted from _Fat Man’s Essential 40_
 
@@ -364,20 +374,21 @@ Adapted from _But My Family Would Never Eat Vegan!_
 - 1 15.5oz can chickpeas 3 tbsp tahini  
 - 2 tsp Dijon mustard  
 - 1 tbsp maple syrup  
-- 1⁄4 cup red onions 1⁄4 celery  
-- 1⁄4 cup pickles  
+- ¼ cup red onions
+- ¼ celery  
+- ¼ cup pickles  
 - 1 tsp capers  
 - Sea salt (to taste)  
 - Black pepper (to taste)  
 - 1 tbsp roasted & unsalted sunflower seeds  
 - 8 slices whole wheat bread  
 
-### Directions:
+### Directions
 
 1. Place the chickpeas in a mixing bowl and mash with a fork, leaving only a few beans whole.
 1. Add tahini, mustard, maple syrup, red onion, celery, pickle, capers, salt and pepper, and sunflower seeds (if using) to mixing bowl. Mix to incorporate. Taste & adjust seasonings as needed.
 1. Toast bread if desired, and prepare any other desired sandwich toppings (such as lettuce, tomato, and onion).
-1. Scoop a healthy amount of the chickpea mixture (about 1⁄2 cup) onto one slice of bread, add desired toppings and top with second slice of bread. Repeat for additional sandwiches.
+1. Scoop a healthy amount of the chickpea mixture (about ½ cup) onto one slice of bread, add desired toppings and top with second slice of bread. Repeat for additional sandwiches.
 
 Adapted from the _Forks Over Knives App_
 
@@ -406,4 +417,71 @@ Adapted from the _Forks Over Knives App_
     To make this less spicy or not spicy, simply reduce or remove the crushed red pepper. 
 
 Adapted from _But My Family Would Never Eat Vegan!_
+ 
+
+## Tater Totchos
+
+!!!Important "Favorite"
+
+**Prep Time:** 10 min, **Cook Time:** 30 min, **Total Time:** 40 min, **Servings:** 4
+
+### Ingredients
+
+- 1 (32-ounces) bag frozen tater tots
+
+#### Nacho Cheese Sauce
+
+- 1 cup (175g) chopped Yukon gold potatoes
+- ½ cup (70g) carrot, peeled and chopped
+- 3⁄4 cup (180ml) water
+- ¼ cup (15g) nutritional yeast
+- 2 tablespoons tahini
+- 1½ tablespoons pickled jalapeño juice
+- 1 tablespoon canned diced green chiles
+- 1 tablespoon lime juice
+- 2 teaspoons sunflower oil (or grape seed oil), _optional_
+- 1 tablespoon minced pickled jalapeño
+- 1 teaspoon ground cumin
+- ½ teaspoon onion powder
+
+#### Beans
+
+- 1 teaspoon olive oil, _optional_
+- 1 medium red onion, diced
+- 2 garlic cloves, minced
+- 1 red bell pepper, diced
+- 3 cups (or 2 15-ounce cans) black beans
+- ¼ cup (60ml) liquid aminos (or tamari)
+- 2 teaspoons ground cumin
+- 2 teaspoons ancho chile powder
+- 1 teaspoon ground coriander
+- ½ teaspoon paprika
+- 3 tablespoons canned diced green chiles
+- Juice of 1 lime
+- Salt and black pepper to taste
+
+_Optional toppings: green onions, fresh tomato, pickled jalapeños, guacamole or chunks of avocado, vegan sour cream_
+
+### Directions
+
+1. Preheat the oven and bake the tots according to the package instructions.
+
+#### Nacho Cheese Sauce
+
+1. Place the potatoes and carrots in a medium pot and cover with water. Bring to a boil and cook until the vegetables are easily pierced with a fork, 8 to 10 minutes.
+2. Drain the vegetables and transfer them to your food processor.
+3. Add the water, nutritional yeast, tahini, pickled jalapeño juice, green chiles, lime juice, sunflower oil (if using), pickled jalapeño (if using), cumin, and onion powder. Process until completely smooth.
+4. Set aside.
+
+#### Beans
+
+1. Heat the olive oil in a large frying pan over medium heat. Add the onions, garlic, and red bell pepper. Sauté until the onions are slightly translucent.
+2. Add the beans, liquid aminos, cumin, ancho chile powder, coriander, and paprika. Cook until the liquid has been absorbed and the beans are heated through.
+3. Add the green chiles and lime juice and cook until the liquid has been absorbed, about 1 minute.
+4. Remove from the heat and add salt and pepper.
+
+#### Assemble & Serve
+
+1. Spread out the tots on a large platter or small baking sheet. Top with the beans, then drizzle the sauce over the beans. If desired, top with green onions, tomato, jalapeños, guacamole, and/or sour cream. 
+2. Serve immediately.
  
