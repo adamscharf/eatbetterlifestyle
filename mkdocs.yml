@@ -22,7 +22,7 @@ theme:
 extra_css: [extra.css]
 
 
-pages:
+nav:
   - Home: index.md
   - About: about.md
   - Recipes: recipes.md
