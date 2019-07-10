@@ -4,35 +4,43 @@ _Top recommendations in **bold**_
 
 ## Richmond, VA
 
-* Mellow Mushroom
-* Chipotle/Moe's/Qdoba
-* **Pelon's Baja Grill**
-* Ipanema
 * 821 Cafe
-* **The Daily Kitchen**
+* **B. Good** - Healthy and amazing vegan burger and fries
+* **Blaze Pizza**
+* **Bottoms Up**
+* **Burger Bach**
+* **Carytown Burgers & Fries**
+* **Cava**
+* Chianti's
+* **Chipotle**
 * Citizen Burger Bar
-* Strange Matter
-* **Sticky Rice** - AMAZING vegan sushi
-* **Pie Five**
-* Blaze Pizza
 * Fresca on Addison
 * Harrison St Cafe
-* Phoenix Garden
-* Bottoms Up
-* **Carytown Burgers & Fries**
-* The Pit and the Peel
-* The Mill on MacArthur
-* The Answer Brewpub
+* Hurley's Tavern
 * India K' Raja
+* Ipanema
 * **Kobe Japanese Steakhouse**
 * La Cucina
 * Mean Bird
-* **B. Good** - Healthy and amazing vegan burger and fries
-* Chianti's
-* **Hurley's Tavern**
-* Tazza Kitchen
-* **Peter Chang**
-* **Noodles and Dumplings by Peter Chang**
-* Cava
+* **Mellow Mushroom**
+* Mind Your Belly Deli
+* MOD Pizza
+* Moe's
 * Mezeh
-* Almost any Asian or Mexican restaurant!
+* **Noodles and Dumplings by Peter Chang**
+* NuVegan Cafe
+* **Peter Chang**
+* Phoenix Garden
+* Pho 1 Grill
+* Plant Baz
+* Qdoba
+* **Rico's Mexican Grill**
+* **Sticky Rice** - AMAZING vegan sushi
+* Silver Diner
+* Strange Matter
+* Tazza Kitchen
+* **Thai Flavor**
+* The Answer Brewpub
+* **The Daily Kitchen**
+* The Mill on MacArthur
+* The Pit and the Peel
