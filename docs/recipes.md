@@ -15,7 +15,7 @@
 - 1 cup water  
 - 2 Tablespoons (or 1/2 package) taco seasoning mix  
 - 3/4 teaspoon ground cumin  
-- 1 recipe [Crispy Baked Tortilla Strips (Oil-Free)](crispy-baked-tortilla-strips-oil-free)  
+- 1 recipe [Crispy Baked Tortilla Strips](#crispy-baked-tortilla-strips-oil-free)  
 - 4 cups cooked white or brown rice (optional)  
 
 #### Optional Additional Toppings
@@ -31,7 +31,7 @@
 
 1. Drain and rinse the beans and corn.
 2. Combine the beans, corn, tomatoes, broth, salsa and seasonings in a medium sized cooking pot. Heat over medium heat, stirring occasionally, until hot.
-3. While the soup is heating, make the [Crispy Baked Tortilla Strips](crispy-baked-tortilla-strips-oil-free).
+3. While the soup is heating, make the [Crispy Baked Tortilla Strips](#crispy-baked-tortilla-strips-oil-free).
 
 Adapted from _<http://littleblueplates.com>_
 
@@ -67,7 +67,7 @@ Adapted from _<http://aggieskitchen.com>_
 
 ### Ingredients
 
-#### Buffalo Chickpea Sauce
+#### Sauce
 
 - 1 tbsp vegetable oil  
 - 1 medium sized onion, chopped  
@@ -79,7 +79,7 @@ Adapted from _<http://aggieskitchen.com>_
 - 2 tbsp plant-based milk  
 - 1 tbsp balsamic vinegar  
 
-#### Spice mix
+#### Spice Mix
 
 - 1 tsp onion powder  
 - 3/4 tsp coconut sugar (or brown sugar) 1/2 tsp garlic powder  
@@ -106,7 +106,7 @@ Adapted from _<http://aggieskitchen.com>_
 1. Bake in the oven for about 15-20 minutes or until they are golden brown and crispy.
 1. Drizzle with vegan cheese sauce (optional). Enjoy with your favorite dip!
 
-_Adapted from <http://elavegan.com>_
+Adapted from _<http://elavegan.com>_
 
 
 ## Crispy Baked Tortilla Strips (Oil-Free)
@@ -128,7 +128,7 @@ _Adapted from <http://elavegan.com>_
 4. Remove strips from the oven and place baking sheet on a cooling rack.(Strips will still be slightly slightly pliable, but will continue to crisp further as they cool.)
 5. Serve strips immediately on top of a taco salad, burrito bowl, or bowl of chili, etc., or transfer cooled strips to an airtight container for storage. (Strips should stay fresh for one to two weeks, if kept airtight.)
 
-Adapted from <http://littleblueplates.com>_
+Adapted from _<http://littleblueplates.com>_
 
 
 ## Lentil Tacos
@@ -193,7 +193,7 @@ Adapted from the _Forks Over Knives App_
 
 ## Spicy Cashew Cheese Sauce
 
-**Servings:** ¾ cup
+**Prep Time:** 5 min, **Cook Time:** 10 min, **Total Time:** 15 min, **Servings:** ¾ cup
 
 ### Ingredients
 
@@ -212,6 +212,117 @@ Adapted from the _Forks Over Knives App_
 2. This can be stored for up to 1 week in the refrigerator. Leftover sauce makes a great dip for tortilla chips.
 
 !!!note
-    To make this less spicy or not spicy, simply reduce or remove the amount of crushed red pepper. 
+    To make this less spicy or not spicy, simply reduce or remove the crushed red pepper. 
 
 Adapted from _But My Family Would Never Eat Vegan!_
+
+
+## Bean & Cheese Quesadillas
+
+**Prep Time:** 15 min, **Cook Time:** 10 min, **Total Time:** 25 min, **Servings:** 8 Quesadillas
+
+### Ingredients
+
+- 2 cups refried beans
+- 4 flour tortillas
+- [Spicy Cashew Cheese Sauce](#spicy-cashew-cheese-sauce)
+- Salsa and/or guacamole
+
+### Directions
+
+1. Spread ½ cup of the beans on one half of a tortilla. Drizzle cheese sauce over the beans. Gently fold the other side of the tortilla over the beans and cheese. Repeat with the remaining tortillas.
+2. Heat a large frying pan, preferably cast iron, over medium-heat. Place one or two (if they'll both fit) quesadillas in the pan and cook for 3 to 4 minutes on each side, until golden and crispy. Transfer them to a plate and cover with aluminum foil to keep warm. Repeat with the remaining quesadillas. Serve immediately with salsa and/or guacamole.
+
+Adapted from _But My Family Would Never Eat Vegan!_
+
+
+## Burritos with Spanish Rice and Black Beans
+
+**Prep Time:** 20 minutes, **Cook Time:** 35 minutes, **Total Time:** 55 min, **Difficulty:** Easy, **Servings:** Serves 8 S
+
+### Ingredients
+
+- 1 medium onion, chopped
+- 1 green or yellow pepper, stemmed, seeded and chopped
+- ½ – 1 jalapeño chile, stemmed, seeded and finely diced (add more or less to taste)
+- 2 cloves garlic, minced
+- 4 cups cooked brown rice
+- 1½ cup diced tomatoes (fresh or canned fire-roasted, liquid reserved)
+- 1½ cup black beans (or 1 15-ounce can), rinsed well
+- 1 teaspoon ground cumin
+- 1 teaspoon ancho chili powder (or other pure, mild chili powder)
+- ½ teaspoon chipotle chili powder (or more, to taste)
+- ½ teaspoon smoked paprika
+- Salt and freshly ground black pepper to taste
+
+### Directions
+1. Heat a deep, non-stick skillet over medium high heat. Add the onion and cook, stirring, until it begins to brown.
+2. Add the pepper, jalapeño, and garlic, and cook for another 2 minutes, taking care not to burn the garlic.
+3. Add the remaining ingredients, stir, and cook, stirring frequently, for about 15 minutes. If it becomes too dry, add a little vegetable broth or reserved tomato juice.
+4. Check the flavor, and add salt and additional seasonings to taste.
+
+!!!note
+    Added one can of refried beans to bean mixture. 
+    
+    Served corn on the side for topping burritos.
+
+Adapted from _<https://forksoverknives.com>_
+
+
+## Coco Loco Chili
+
+**Prep Time:** 15 min, **Cook Time:** 30 min, **Total Time:** 45 min, **Difficulty:** Easy, **Servings:** 6
+
+### Ingredients
+
+#### Produce
+
+- 2 yellow onions diced (≈4 cups)
+- 5 stalks celery diced (≈1/2 cups)
+- 2 red bell peppers diced (≈2 cups)
+- 4 cloves garlic minced (≈2 teaspoons)
+
+#### Spices
+
+- 3 tablespoons fresh lime juice
+- 4 tablespoons mild chili powder
+- 1 teaspoon ground cinnamon
+- 1 teaspoon ground allspice
+- 1 teaspoon sea salt, plus more to taste
+- freshly ground black pepper
+- 4 tablespoons cocoa powder
+
+#### Packaged
+
+- 1 (28-oz) can low-sodium fire-roasted tomatoes with juices 1 (15-oz) can black beans drained & rinsed (≈1/2 cups)
+- 1 (15-oz) can kidney beans drained & rinsed (≈1/2 cups)
+- 1 (15-oz) can pinto beans drained & rinsed (≈1/2 cups)
+- 1 (14-oz) can light coconut milk
+- 2 tablespoons unsweetened coconut flakes
+- 5 ounces frozen corn (≈1 cups)
+- 2 teaspoons chipotle hot sauce
+
+### Directions
+
+#### Prepare Produce
+
+1. Dice onion, celery, and bell pepper. Mince garlic.
+2. Juice lime.
+
+#### Cook Chili
+
+1. Combine onions, celery, bell peppers, garlic, 2 tablespoons of water, chili powder, cinnamon, allspice, and salt in a stockpot; season with black pepper to taste.
+2. Cook, covered, over medium heat, stirring occasionally, until onions start to soften, 7 to 9 minute. (Reduce heat if onions start to burn.)
+3. Add cocoa and cook, stirring, for 1 to 2 minutes.
+4. Add tomatoes, beans, coconut milk, shredded coconut and stir to combine. Increase heat and bring mixture to a boil.
+5. Reduce heat to low, cover, and simmer, stirring occasionally, for 20 to 25 minutes.
+6. Stir in corn kernels and cook, covered, until heated through, about 5 minutes.
+7. Remove lid and let liquid reduce until chili reaches desired consistency.
+
+#### Assemble & Serve
+
+1. Add lime juice; mix well, and season with additional salt, pepper, and hot sauce to taste. Serve hot. 
+
+!!!note
+    Store any leftover chili in an airtight container in the refrigerator for up to 3 days.
+ 
