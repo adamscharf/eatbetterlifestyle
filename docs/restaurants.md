@@ -27,11 +27,13 @@ _Top recommendations in **bold**_
 * MOD Pizza
 * Moe's
 * Mezeh
+* Natalie's Taste of Lebanon
 * **Noodles and Dumplings by Peter Chang**
 * NuVegan Cafe
 * **Peter Chang**
-* Phoenix Garden
 * Pho 1 Grill
+* Pho Saigon
+* Phoenix Garden
 * Plant Baz
 * Qdoba
 * **Rico's Mexican Grill**
