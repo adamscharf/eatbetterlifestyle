@@ -242,6 +242,86 @@ Adapted from _<http://elavegan.com>_
 Adapted from _<http://littleblueplates.com>_
 
 
+## Everyone's Favorite Breakfast Potatoes
+
+**Servings:** 4 as a side
+
+#### Ingredients
+
+- 3 to 4 medium yukon gold potatoes, cubed
+- 2 tablespoons olive oil
+- 1 medium onion, sliced
+- ½ red bell pepper, sliced
+- 4 garlic cloves, sliced
+- 2 teaspoons high-quality spicy smoked Spanish paprika 
+- 1 ½ teaspoons salt
+- Freshly cracked black pepper to taste
+- Fresh oregano and cilantro to taste
+
+### Directions
+
+1. Blanch the potatoes in salted boiling water until slightly softened, about 5 minutes. Drain and set aside to cool.
+2. Heat the olive oil in a heavy-bottomed sauté pan (preferably cast iron or black steel) over medium heat.
+3. Add the onion, pepper, and garlic and cook until the onion is soft and translucent, about 10 minutes.
+4. Mix the potatoes into the pan with the other vegetables. Continue cooking, tossing the potatoes continuously to allow each side to receive some color from the bottom of the pan.
+5. After 5 minutes, add the paprika, salt, and pepper. Toss the mixture in the pan and cook until everything is a dark golden- brown.
+6. At the very last second, toss in the fresh oregano and cilantro, then serve.
+
+Adapted from _The Plantiful Table_
+
+
+## Fat Man’s BBQ Meat Ballz
+
+**Servings:** 30 “meat”balls
+
+#### Meatballs:
+
+2 cups cooked brown rice
+2 cups cooked lentils (green)
+1 large onion (finely chopped)
+2 green peppers (finely chopped)
+1 Tbsp. garlic powder
+1 Tbsp. smoked paprika
+1 Tbsp. parsley
+1 tsp. black pepper
+1 tsp. cumin
+1 cup old fashioned oats (ground into flour) 1 Tbsp. liquid aminos or salt to taste
+
+#### Sauce:
+
+1 can (29oz) of tomato puree 1 Tbsp. basil
+1 Tbsp. parsley
+1 tsp. garlic powder
+1 Tbsp. onion powder
+1 tsp oregano
+
+**Directions**
+1. Combine all “meat” in a mixing bowl and mix thoroughly. Mixture should be a dough-like consistency. 
+2. Using wet hands roll mixture into balls and place on a baking sheet with parchment paper. Bake at 425 ̊F for 30 minutes or until crispy.
+3. In a sauce pan combine tomato puree, BBQ sauce, and sauce spices and bring to a simmer for 5 minutes. Carefully place a few “meat”balls into sauce for about a minute, remove, plate, and serve.
+
+!!!notes
+    DO NOT cook the balls in the sauce (they will fall apart)
+
+Adapted from _Fat Man’s Essential 40_
+
+
+## Fat Man’s Chicken Wing Hummus Dip
+
+**Servings:** 8
+- 2 cans (15.5oz.) of garbanzo beans
+- 1⁄4 cup nutritional yeast
+-  cup favorite hot sauce (I like Frank’s Redhot) 1⁄8 of a medium red onion
+1 stick of celery
+DIRECTIONS
+Place 1⁄2 of the celery stick (the leafy half), onion, and hot sauce in a blender.
+Add 1 can of undrained chickpeas and continue blending.
+Drain 2nd can of beans (save liquid) and add it along with the nutritional yeast to the blender. Add in the reserved liquid as needed to desired texture.
+Top with diced celery and some extra hot sauce.
+
+Adapted from _Fat Man’s Essential 40_
+
+
 ## Lentil Tacos
 
 **Prep:** 15 min, **Cook:** 30 min, **Total:** 45 min, **Servings:** 4
