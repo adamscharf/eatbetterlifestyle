@@ -5,36 +5,36 @@ today. It may seem like an overwhelming amount of information but I would
 recommend just starting with either "Forks Over Knives" or "What the Health", 
 then going from there.
 
-The book that got me started was "The Engine 2 Diet"
+The book that got me started was "[The Engine 2 Diet](#engine-2-diet)"
  
 
 ## Documentaries
 
 ### [Forks Over Knives][fok-film]
 
-A GREAT overview of wfpb diet. You could definitely start here and get a good 
+- A GREAT overview of wfpb diet. You could definitely start here and get a good 
 foundation of knowledge.
 
 ### [What the Health][what-the-health]
 
-Follow up to Cowspiracy and investigates the influence of Meat/Dairy/Big Pharma 
+- Follow up to Cowspiracy and investigates the influence of Meat/Dairy/Big Pharma 
 companies over the health industry.
 
 ### [Cowspiracy][cowspiracy]
 
-Talks about the big players in Meat and Dairy and how much control they really 
+- Talks about the big players in Meat and Dairy and how much control they really 
 have
 
 ### [PlantPureNation][plant-pure-nation]
 
-This documentary follows three people trying to educate the American public 
+- This documentary follows three people trying to educate the American public 
 about the health benefits of a plant based diet. They attempt to work with the 
 Kentucky Senate, but lobbyists push back once they realize the legislation could 
 be detrimental to the animal agriculture business.
 
 ### [From The Ground Up][from-the-ground-up]
 
-Follows the story of a former college football player, Santino Panico, as he
+- Follows the story of a former college football player, Santino Panico, as he
 attempts to rediscover his fitness as a vegan by running in his first marathon.
 He meets with vegetarian and vegan elite competitors to better understand the 
 link between food and sports.
